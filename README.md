@@ -6,7 +6,7 @@
 
 Any Issues contact Benjamins#0001
 
-1. [Download](https://github.com/DaBenjamins/XLNC-OBS/releases) the .json file from the folder
+1. [Download](https://github.com/DaBenjamins/XLNC-OBS/releases) the .json file from the releases
 2. Download move the move transition, transition table, and spectralizer plugins
 	1. Move Transitions - https://obsproject.com/forum/resources/move-transition.913/
 	2. Transition Table - https://obsproject.com/forum/resources/transition-table.1174/
