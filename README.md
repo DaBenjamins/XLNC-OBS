@@ -13,6 +13,7 @@ Any Issues contact Benjamins#0001
 	3. Advanced Scene Transition - https://obsproject.com/forum/resources/advanced-scene-switcher.395/
 	4. Spectralizer - https://github.com/univrsal/spectralizer/releases/tag/v1.3.4
 	5. VLC Player - https://www.videolan.org/vlc/download-windows.html
+	6. League Broadcaster - https://github.com/makermatic/LeagueBroadcast-XLNC-Edition
 3. Install plugins into your OBS
 4. Verify Move Transition is a option
 5. Verify under tools there is Transition Table
